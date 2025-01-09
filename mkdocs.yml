@@ -1,0 +1,26 @@
+site_name: charron.io blog 
+site_description: A blog site about development, photography, and cooking.
+site_url: https://blog.charron.io
+theme:
+  name: material
+  palette:
+    # Dark theme
+    - scheme: slate
+      toggle: 
+        icon: material/weather-sunny
+        name: Light mode
+      primary: cyan
+      accent: amber
+    # Light theme
+    - scheme: light
+      toggle: 
+        icon: material/weather-night
+        name: Light mode
+      primary: cyan
+      accent: amber
+  features:
+    - content.code.copy
+
+plugins: 
+  - search
+  - blog
