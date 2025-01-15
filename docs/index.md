@@ -1,5 +1,3 @@
-# About Me
+# Blog 
 
-My name is Bruce Charron, I've been a developer, lead, development manager, and a consultant. 
-This blog is primarily about tech, but my other passions are photgraphy and cooking. So you'll find some of that here as well.
-Of late, I've been augmenting professional experience with homelab work to cover the bases.
+My name is Bruce Charron, I've worn a few hats over my career. This blog primarily focuses on technology, but it also reflects my passions for photography and cooking, so you'll find a mix of those topics here too. Recently, I’ve been enhancing my professional expertise through homelab projects, broadening my skill set and exploring new challenges.

@@ -1,5 +1,5 @@
 site_name: charron.io blog 
-site_description: A blog site about development, photography, and cooking.
+site_description: A blogging site about development, photography, and cooking.
 site_url: https://blog.charron.io
 
 extra:
@@ -25,7 +25,17 @@ theme:
       accent: amber
   features:
     - content.code.copy
+    
 
 plugins: 
   - search
-  - blog
+  - blog:
+      blog_dir: .
+      archive_date_format: yyyy
+      archive_url_date_format: yyyy
+      categories_allowed:
+        - Cooking
+        - Photography
+        - Technology
+      post_url_format: "{slug}"
+

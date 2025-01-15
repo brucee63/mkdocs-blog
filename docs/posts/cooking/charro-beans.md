@@ -7,7 +7,7 @@ categories:
   - Cooking
 ---
 
-# B's Charro Beans 
+# Charro Beans 
 My take on a classic Mexican side dish, when refried beans just won't do.
 
 <!-- more -->
