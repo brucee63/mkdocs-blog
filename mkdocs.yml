@@ -1,5 +1,5 @@
 site_name: charron.io blog 
-site_description: A blogging site about development, photography, and cooking.
+site_description: A blogging site about technology, photography, and cooking.
 site_url: https://blog.charron.io
 
 extra:
@@ -25,7 +25,6 @@ theme:
       accent: amber
   features:
     - content.code.copy
-    
 
 plugins: 
   - search
@@ -39,3 +38,16 @@ plugins:
         - Technology
       post_url_format: "{slug}"
 
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format      
+
+extra_css:
+  - stylesheets/extra.css
