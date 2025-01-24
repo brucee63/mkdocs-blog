@@ -26,9 +26,9 @@ For example, previously when I asked what was the current long-term support (LTS
 
 ## Solutions: Web Search (RAG)
 
-For Pro subscribers, **web search** capabilities can partially address this issue. By allowing the model to augment its answers with real-time search (retrieval-augmented generation or RAG), it can provide more accurate and current responses. However, this approach has its downsides:
+For Plus subscribers, **web search** capabilities can partially address this issue. By allowing the model to augment its answers with real-time search (retrieval-augmented generation or RAG), it can provide more accurate and current responses. However, this approach has its downsides:
 
- - Cost: **Web search** requires the Pro subscription, which costs $20 per month.
+ - Cost: **Web search** requires the Plus subscription, which costs $20 per month.
  - Longer Response Times: Searching the web takes extra time.
  - Data Misinterpretation: The model may occasionally misrepresent search sourced information.
 
