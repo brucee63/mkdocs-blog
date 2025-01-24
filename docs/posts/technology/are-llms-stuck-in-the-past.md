@@ -38,10 +38,10 @@ Understanding the knowledge cutoff dates for different models is essential. Here
 
 | Model | Knowledge Cutoff |
 | --- | --- | 
-| Chat-GPT 3.5 | 2021 |
-| Chat-GPT 3.5 +/Turbo | January 2022 | 
-| Chat-GPT 4 | October 2023 |
-| Chat-GPT 4o | October 2023 |
+| ChatGPT 3.5 | 2021 |
+| ChatGPT 3.5 +/Turbo | January 2022 | 
+| ChatGPT 4 | October 2023 |
+| ChatGPT 4o | October 2023 |
 | o1-mini | October 2023 |
 | o1 | December 2023 |
 | LLaMA 2 | 2023 |
