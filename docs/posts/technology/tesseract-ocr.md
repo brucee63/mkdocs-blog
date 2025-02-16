@@ -5,6 +5,10 @@ authors:
   - bruce
 categories:
   - Technology
+tags:
+  - ocr
+  - docker
+  - powershell
 ---
 
 # Tesseract OCR

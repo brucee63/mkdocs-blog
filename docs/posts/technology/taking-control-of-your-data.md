@@ -5,6 +5,10 @@ authors:
   - bruce
 categories:
   - Technology
+tags:
+  - cms
+  - markdown
+  - rag
 ---
 
 # Content Platform Lock-In: Taking Control of Your Data

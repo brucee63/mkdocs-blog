@@ -37,6 +37,8 @@ plugins:
         - Photography
         - Technology
       post_url_format: "{slug}"
+  - tags:
+      tags_file: tags.md
 
 markdown_extensions:
   - attr_list

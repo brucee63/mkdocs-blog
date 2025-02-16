@@ -5,6 +5,10 @@ authors:
   - bruce
 categories:
   - Technology
+tags:
+  - llm
+  - chatgpt
+  - rag
 ---
 
 # Are LLMs Stuck in the Past?
